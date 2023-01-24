@@ -39,7 +39,7 @@ import matplotlib.pyplot as plt
 # utilizamos el método 'pd.read_excel' para leer un archivo xlsx y guardarlo en un DataFrame 'df'
 df = pd.read_excel('Datos.xlsx')
 
-# imprimimos el DataFrame 'df' para verificar que los datos se hayan cargado correctamente
+# imprimimos el DataFrame 'df' para verificar que los datos se hayan cargado correctamente.
 df
 ```
 
@@ -47,19 +47,6 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
