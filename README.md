@@ -1,6 +1,6 @@
 <h1>Modelo predictivo del posible valor que puede tener una casa en la ciudad de villavicencio</h1>
 
-<h3>Descripcion:</h3>
+<h3>Descripcionn:</h3>
 
 <la>Es un modelo  que busca brindar a los interesados en el mercado inmobiliario de Villavicencio, una herramienta para predecir los precios de las viviendas en la ciudad. Utilizando técnicas de aprendizaje automático y un gran conjunto de datos históricos del mercado inmobiliario de Villavicencio, este modelo busca proporcionar una visión precisa y actualizada de las tendencias del mercado y ayudar a los compradores, vendedores y inversores a tomar decisiones informadas.</la>
 
